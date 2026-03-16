@@ -1,0 +1,9 @@
+{
+	"name": "bridge-demo",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9b6b75f3-8e56-4e68-8525-d4d51ca4504a",
+		"tenantId": "608d4407-e8d7-4717-881c-d7a1cef11049"
+	}
+}
